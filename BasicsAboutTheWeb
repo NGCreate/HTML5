@@ -1,0 +1,6 @@
+ DNS gets used to translate the domain into IP address , request gets sent to server where the website is being hosted.
+ It then sees what the user wants exactly , wich part of the website , break it into little packets and send it all back.
+ 
+ Front End Development = JS , HTML , CSS.
+ Back End Development = the structure of the website , figuring out if you logged in , what you have reacted to/liked/etc. , fetching your
+ pfp if you are logged in , how many like your posts have , etc.

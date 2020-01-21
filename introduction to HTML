@@ -1,2 +1,0 @@
- DNS gets used to translate the domain into IP address , request gets sent to server where the website is being hosted.
- It then sees what the user wants exactly , wich part of the website , break it into little packets and send it all back.
