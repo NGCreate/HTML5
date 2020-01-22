@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>This is lists</title>
+</head>
+<body>
+	<h1>I will be looking at lists today</h1>
+<!-- this is an orginized list 1,2,3 -->
+	<h4>This is my color list</h4>
+<ol>
+	<li>Red</li>
+	<li>Orange</li>
+	<li>Yellow</li>
+</ol>
+<!-- this is an un orginized list , bullet points -->
+<ul>  
+	<li><strong>Red</strong></li>
+	<li>Orange</li>
+	<li>Yellow  <!-- You can nest a list inside a list if you would like to -->
+		<ul>
+		 <li><em>Sunflower</em></li>
+		 <li>Bananna
+		 	<ol> <!-- You can add multiple lists inside each other. -->
+		 		<li>Frozen Banana</li> 
+		 		<li><Strong>Unfrozen Banana</Strong></li>
+		 	</ol>
+		 </li>
+		</ul>
+	</li>
+</ul>
+
+</body>
+</html>
